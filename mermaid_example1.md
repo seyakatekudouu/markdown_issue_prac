@@ -10,7 +10,7 @@
 
    VSCodeはデフォルトでもMarkdownのプレビューは出来ますが、Mermaid記法は認識してくれないのでそこで、プレビュー時にMermaid記法で記述したコードを図として表示する為に必要な拡張機能をインストールします。
 
-###　拡張機能
+### 拡張機能
 Markdown Preview Mermaid Support    
 
 ### 使い方
@@ -21,7 +21,7 @@ Markdown Preview Mermaid Support
 
 IDEを使っているのであれば、白と黒だけでは味気ないし見づらい、ということで、Mermaid記法をハイライト表示してくれる拡張機能です。
 
-###　拡張機能
+### 拡張機能
 Mermaid Markdown Syntax Highlighting   
 
 ### 使い方
